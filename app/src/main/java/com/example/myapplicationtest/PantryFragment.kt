@@ -1,0 +1,12 @@
+package com.example.myapplicationtest
+
+import android.os.Bundle
+import androidx.fragment.app.Fragment
+import android.view.LayoutInflater
+import android.view.View
+import android.view.ViewGroup
+
+
+class PantryFragment : Fragment(R.layout.fragment_pantry) {
+
+}
